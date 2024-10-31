@@ -1,4 +1,4 @@
-![logo](https://github.com/Yashkumarbanjare/Yashkumarbanjare/blob/main/banner_profile.mp4)
+![Banner](https://github.com/Yashkumarbanjare/Yashkumarbanjare/blob/main/gif_banner.gif)
 <h1 align="center">Hi 👋, I'm Yash Banjare</h1>
 <h3 align="center">A Passionate Java Developer Enthusiast From India.</h3>
 
